@@ -22,8 +22,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**412 – Fizz Buzz**  
-🔗 [Leetcode Link](https://leetcode.com/problems/fizz-buzz/)
+**20 - Valid Parentheses**  
+🔗 [Leetcode Link](https://leetcode.com/problems/valid-parentheses/)
 
 ---
 
