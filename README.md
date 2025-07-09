@@ -22,8 +22,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**20 - Valid Parentheses**  
-🔗 [Leetcode Link](https://leetcode.com/problems/valid-parentheses/)
+**9 - Palindrome Number**  
+🔗 [Leetcode Link](https://leetcode.com/problems/palindrome-number/)
 
 ---
 
