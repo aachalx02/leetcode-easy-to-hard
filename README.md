@@ -22,8 +22,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**9 - Palindrome Number**  
-🔗 [Leetcode Link](https://leetcode.com/problems/palindrome-number/)
+**217 - Contains Duplicate**  
+🔗 [Leetcode Link](https://leetcode.com/problems/contains-duplicate/)
 
 ---
 
