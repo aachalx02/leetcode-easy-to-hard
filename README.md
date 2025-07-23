@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**217 - Contains Duplicate**  
-🔗 [Leetcode Link](https://leetcode.com/problems/contains-duplicate/)
+**268 – Missing Number**  
+🔗 [Leetcode Link](https://leetcode.com/problems/missing-number/)
 
 ---
 
