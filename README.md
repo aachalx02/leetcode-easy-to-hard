@@ -10,6 +10,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 - Goal: 1 Leetcode problem a day
 - Growth: From Easy → Medium → Hard
 
+⏸️ Note: Took a short vacation after Day 8 — refreshed & recharged 🌿
+
 ---
 
 ## 📂 Folder Structure
