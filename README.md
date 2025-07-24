@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**268 – Missing Number**  
-🔗 [Leetcode Link](https://leetcode.com/problems/missing-number/)
+**1480 - Running Sum of 1d Array**  
+🔗 [Leetcode Link](https://leetcode.com/problems/running-sum-of-1d-array/)
 
 ---
 
