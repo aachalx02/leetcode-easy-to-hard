@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**1480 - Running Sum of 1d Array**  
-🔗 [Leetcode Link](https://leetcode.com/problems/running-sum-of-1d-array/)
+**771 – Jewels and Stones**  
+🔗 [Leetcode Link](https://leetcode.com/problems/jewels-and-stones/)
 
 ---
 
