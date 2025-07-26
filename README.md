@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**771 – Jewels and Stones**  
-🔗 [Leetcode Link](https://leetcode.com/problems/jewels-and-stones/)
+**169 - Majority Element**  
+🔗 [Leetcode Link](https://leetcode.com/problems/majority-element/)
 
 ---
 
