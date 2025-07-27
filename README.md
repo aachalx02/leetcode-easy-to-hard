@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**169 - Majority Element**  
-🔗 [Leetcode Link](https://leetcode.com/problems/majority-element/)
+**1 - Two Sum**  
+🔗 [Leetcode Link](https://leetcode.com/problems/two-sum/)
 
 ---
 
