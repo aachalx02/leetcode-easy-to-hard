@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**1 - Two Sum**  
-🔗 [Leetcode Link](https://leetcode.com/problems/two-sum/)
+**21 - Merge Two Sorted Lists**  
+🔗 [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 ---
 
