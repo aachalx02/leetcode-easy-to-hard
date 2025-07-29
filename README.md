@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**21 - Merge Two Sorted Lists**  
-🔗 [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists/)
+**344 - Reverse String**  
+🔗 [Leetcode Link](https://leetcode.com/problems/reverse-string)
 
 ---
 
