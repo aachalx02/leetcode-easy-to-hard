@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**344 - Reverse String**  
-🔗 [Leetcode Link](https://leetcode.com/problems/reverse-string)
+**125 - Valid Palindrome**  
+🔗 [Leetcode Link](https://leetcode.com/problems/valid-palindrome/)
 
 ---
 
