@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**125 - Valid Palindrome**  
-🔗 [Leetcode Link](https://leetcode.com/problems/valid-palindrome/)
+**70 - Climbing Stairs**  
+🔗 [Leetcode Link](https://leetcode.com/problems/climbing-stairs/)
 
 ---
 
