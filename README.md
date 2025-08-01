@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**70 - Climbing Stairs**  
-🔗 [Leetcode Link](https://leetcode.com/problems/climbing-stairs/)
+**104 Maximum Depth of Binary Tree**  
+🔗 [Leetcode Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ---
 
