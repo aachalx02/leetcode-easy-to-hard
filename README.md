@@ -24,8 +24,8 @@ This repository contains daily Leetcode solutions categorized by difficulty and 
 
 ## 🚀 Today’s Problem
 
-**104 Maximum Depth of Binary Tree**  
-🔗 [Leetcode Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+**206 Reverse Linked List**  
+🔗 [Leetcode Link](https://leetcode.com/problems/reverse-linked-list/)
 
 ---
 
